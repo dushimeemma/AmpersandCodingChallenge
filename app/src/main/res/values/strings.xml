@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitGetRecyclerviewExample</string>
+    <string name="product_image">Image of the product</string>
+</resources>
